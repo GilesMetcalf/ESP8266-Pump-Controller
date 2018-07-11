@@ -10,8 +10,8 @@
 #define netMask "255.255.255.0" // Net mask
 
 #ifndef WIFI_SSID
-	#define WIFI_SSID "Lughnasadh"
-	#define WIFI_PWD "40HorseWood"
+	#define WIFI_SSID "xxxxxxxxxxxxx"
+	#define WIFI_PWD "xxxxxxxxxxxxxxx"
 #endif
 
 // Application-specific settings
